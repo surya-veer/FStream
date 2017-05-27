@@ -11,4 +11,4 @@
 3. Invite other user :)
 
 ##Screenshots
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/surya-veer/chat-application/blob/master/images/chat_app.png)
