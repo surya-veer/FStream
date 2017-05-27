@@ -1,8 +1,8 @@
 # Chat Aplication using Python QtNetwork
+This is very basic chat application based on TCP Sockets. I have implementated this using QtNetwork class of PyQt4.
 
-How to run this application
-------------
-### Requirements:
+### How to run this application
+#### Requirements:
 1. Pyhton
 2. PyQt4(for GUI)
 
