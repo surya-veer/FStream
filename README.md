@@ -3,7 +3,7 @@ This is very basic chat application based on TCP Sockets. I have implementated t
 
 ### How to run this application
 #### Requirements:
-1. Pyhton
+1. Python
 2. PyQt4(for GUI)
 
 ####  Procedure:
@@ -12,4 +12,4 @@ This is very basic chat application based on TCP Sockets. I have implementated t
 3. Invite other user :)
 
 ## Screenshots
-![alt text](images/chat_app.png)
+![alt text](images/chat_app.png?raw=true "Title")
