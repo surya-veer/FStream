@@ -12,4 +12,6 @@ This is very basic chat application based on TCP Sockets. I have implementated t
 3. Invite other user :)
 
 ## Screenshots
-![alt text](images/chat_app.png?raw=true "Title")
+
+![alt text](images/chat_app2.png "Disconnected")
+![alt text](images/chat_app.png "Connected")
