@@ -18,6 +18,7 @@ class Chat(QDialog):
 	def __init__(self , parent = None):
 		super(Chat,self).__init__(parent)
 		layout = QHBoxLayout
+		self.setWindowFlags(Qt.WindowStaysOnTopHint)
 
 		#initializing socket
 		self.socket  = QTcpSocket()
