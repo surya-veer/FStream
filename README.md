@@ -1,5 +1,5 @@
 # Chat Aplication using Python QtNetwork
-This is very basic chat application based on TCP Sockets. I have implementated this using QtNetwork class of PyQt4.
+This is very basic chat application based on TCP Sockets.You can also share files over local nextwork. I have implementated this using QtNetwork class of PyQt4.
 
 ### How to run this application
 #### Requirements:
